@@ -1,0 +1,25 @@
+button{
+    cursor: pointer;
+    color:black;
+    width: 180px;
+    height:40px;
+    font-family: Roboto, sans-serif;
+    font-weight: 700;
+    border-radius: 10px;
+    border: 2px solid white;
+    margin: 5px;
+  }
+
+.btn_click{
+ border: 3px solid #0647f9 ;
+}
+.btn_click:hover{
+ background-color:#0647f9;
+ color: white;
+}
+.btn_restart{
+ border: 3px solid red ;
+}
+.btn_restart:hover{
+    background-color:#044c14;
+}
